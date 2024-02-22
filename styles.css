@@ -4,24 +4,83 @@ h1 {
 
 .pantry-header {
   background-color:saddlebrown;
+  display: block;
+  padding: 10px;
+  margin-top:25px;
+  margin-bottom:25px;
+  text-align:center;
 }
 
 .canned-goods {
   background-color:peru;
+  display: inline-block;
+  padding: 10px;
+  margin:10px;
+  vertical-align:middle;
+}
+.canned-header{
+  background-color:blanchedalmond;
+  color:saddlebrown;
+  text-align:center;
 }
 
 .dry-goods {
   background-color:peru;
+  display:inline-block;
+  padding: 10px;
+  margin:10px;
+  vertical-align:middle;
+}
+
+.dry-header{
+  background-color:blanchedalmond;
+  color:saddlebrown;
+  text-align:center;
 }
 
 .pantry-image {
-  background-color:peru;
+  padding: 10px;
+  display:inline-block;
+  vertical-align:middle;
+}
+
+.freezer-header{
+  padding:10px;
+  margin-top:25px;
+  margin-bottom:25px;
+  text-align:center;
 }
 
 .veggies {
   background-color:skyblue;
+  display: inline-block;
+  padding: 10px;
+  margin:10px;
+  vertical-align:middle;
+}
+
+.veggie-header{
+  background-color:aliceblue;
+  color:deepskyblue;
+  text-align:center;
 }
 
 .snacks {
   background-color:skyblue;
+  display: inline-block;
+  padding: 10px;
+  margin:10px;
+  vertical-align:middle;
+}
+
+.snacks-header{
+  background-color:aliceblue;
+  color:deepskyblue;
+  text-align:center;
+}
+
+.freezer-image{
+  padding: 10px;
+  display: inline-block;
+  vertical-align:middle;
 }
