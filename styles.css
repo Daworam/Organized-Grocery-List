@@ -9,6 +9,7 @@ h1 {
   margin-top:25px;
   margin-bottom:25px;
   text-align:center;
+  color:blanchedalmond;
 }
 
 .canned-goods {
@@ -17,6 +18,11 @@ h1 {
   padding: 10px;
   margin:10px;
   vertical-align:middle;
+  border-radius: 5px;
+  border-color:saddlebrown;
+  border-style:double;
+  border-width: 5px;
+ 
 }
 .canned-header{
   background-color:blanchedalmond;
@@ -30,6 +36,10 @@ h1 {
   padding: 10px;
   margin:10px;
   vertical-align:middle;
+  border-radius: 5px;
+  border-color:saddlebrown;
+  border-style:double;
+  border-width: 5px;
 }
 
 .dry-header{
@@ -42,6 +52,8 @@ h1 {
   padding: 10px;
   display:inline-block;
   vertical-align:middle;
+  margin:10px;
+  
 }
 
 .freezer-header{
@@ -49,6 +61,7 @@ h1 {
   margin-top:25px;
   margin-bottom:25px;
   text-align:center;
+  color: aliceblue;
 }
 
 .veggies {
@@ -57,6 +70,10 @@ h1 {
   padding: 10px;
   margin:10px;
   vertical-align:middle;
+  border-radius: 5px;
+  border-color:deepskyblue;
+  border-style: double;
+  border-width: 5px;
 }
 
 .veggie-header{
@@ -71,6 +88,10 @@ h1 {
   padding: 10px;
   margin:10px;
   vertical-align:middle;
+  border-radius: 5px;
+  border-color:deepskyblue;
+  border-style: double;
+  border-width: 5px;
 }
 
 .snacks-header{
@@ -83,4 +104,5 @@ h1 {
   padding: 10px;
   display: inline-block;
   vertical-align:middle;
+  margin:10px;
 }
