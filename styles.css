@@ -37,6 +37,7 @@ h1 {
   border-style:double;
   border-width: 5px;
   padding:2px;
+  margin:5px;
 }
 
 .dry-header{
@@ -48,6 +49,7 @@ h1 {
   border-style:double;
   border-width: 5px;
   padding:2px;
+  margin:5px;
 }
 
 #pantry-image {
@@ -92,6 +94,7 @@ h1 {
   border-style:double;
   border-width: 5px;
   padding:2px;
+  margin:5px;
 }
 
 .snacks-header{
@@ -103,6 +106,7 @@ h1 {
   border-style:double;
   border-width: 5px;
   padding:2px;
+  margin:5px;
 }
 
 #freezer-image{
