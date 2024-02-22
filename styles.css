@@ -1,0 +1,27 @@
+h1 {
+  color:rgb(194, 13, 13);
+}
+
+.pantry-header {
+  background-color:saddlebrown;
+}
+
+.canned-goods {
+  background-color:peru;
+}
+
+.dry-goods {
+  background-color:peru;
+}
+
+.pantry-image {
+  background-color:peru;
+}
+
+.veggies {
+  background-color:deepskyblue;
+}
+
+.snacks {
+  background-color:deepskyblue;
+}
