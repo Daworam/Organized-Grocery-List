@@ -2,7 +2,7 @@ h1 {
   color:rgb(194, 13, 13);
 }
 
-.pantry-header {
+#pantry-header {
   background-color:saddlebrown;
   display: block;
   padding: 10px;
@@ -10,9 +10,13 @@ h1 {
   margin-bottom:25px;
   text-align:center;
   color:blanchedalmond;
+  border-radius: 5px;
+  border-color:blanchedalmond;
+  border-style:double;
+  border-width: 5px;
 }
 
-.canned-goods {
+.pantry-goods {
   background-color:peru;
   display: inline-block;
   padding: 10px;
@@ -22,33 +26,31 @@ h1 {
   border-color:saddlebrown;
   border-style:double;
   border-width: 5px;
- 
 }
+
 .canned-header{
   background-color:blanchedalmond;
   color:saddlebrown;
   text-align:center;
-}
-
-.dry-goods {
-  background-color:peru;
-  display:inline-block;
-  padding: 10px;
-  margin:10px;
-  vertical-align:middle;
   border-radius: 5px;
   border-color:saddlebrown;
   border-style:double;
   border-width: 5px;
+  padding:2px;
 }
 
 .dry-header{
   background-color:blanchedalmond;
   color:saddlebrown;
   text-align:center;
+  border-radius: 5px;
+  border-color:saddlebrown;
+  border-style:double;
+  border-width: 5px;
+  padding:2px;
 }
 
-.pantry-image {
+#pantry-image {
   padding: 10px;
   display:inline-block;
   vertical-align:middle;
@@ -56,15 +58,20 @@ h1 {
   
 }
 
-.freezer-header{
+#freezer-header{
   padding:10px;
   margin-top:25px;
   margin-bottom:25px;
   text-align:center;
   color: aliceblue;
+  border-radius: 5px;
+  border-color:aliceblue;
+  border-style:double;
+  border-width: 5px;
+  
 }
 
-.veggies {
+.freezer-goods {
   background-color:skyblue;
   display: inline-block;
   padding: 10px;
@@ -80,27 +87,25 @@ h1 {
   background-color:aliceblue;
   color:deepskyblue;
   text-align:center;
-}
-
-.snacks {
-  background-color:skyblue;
-  display: inline-block;
-  padding: 10px;
-  margin:10px;
-  vertical-align:middle;
   border-radius: 5px;
   border-color:deepskyblue;
-  border-style: double;
+  border-style:double;
   border-width: 5px;
+  padding:2px;
 }
 
 .snacks-header{
   background-color:aliceblue;
   color:deepskyblue;
   text-align:center;
+  border-radius: 5px;
+  border-color:deepskyblue;
+  border-style:double;
+  border-width: 5px;
+  padding:2px;
 }
 
-.freezer-image{
+#freezer-image{
   padding: 10px;
   display: inline-block;
   vertical-align:middle;
